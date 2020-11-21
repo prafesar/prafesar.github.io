@@ -10,7 +10,11 @@ highlighter: rouge
 logo: true
 paginate: 10
 # baseurl: /kasper
+
+permalink: /:title/
+
 domain_name: "http://prafesar.github.io"
+
 # google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
